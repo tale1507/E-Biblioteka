@@ -1,0 +1,69 @@
+C:\Users\PC\Desktop\New folder\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.config
+C:\Users\PC\Desktop\New folder\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe
+C:\Users\PC\Desktop\New folder\Biblioteka\Biblioteka\bin\Release\Biblioteka.pdb
+C:\Users\PC\Desktop\New folder\Biblioteka\Biblioteka\obj\Release\Biblioteka.Form1.resources
+C:\Users\PC\Desktop\New folder\Biblioteka\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+C:\Users\PC\Desktop\New folder\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\New folder\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe
+C:\Users\PC\Desktop\New folder\Biblioteka\Biblioteka\obj\Release\Biblioteka.pdb
+E:\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.config
+E:\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe
+E:\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.pdb
+E:\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe
+E:\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.pdb
+E:\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.Form1.resources
+E:\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+E:\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.Cache
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.config
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.pdb
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.pdb
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.csprojResolveAssemblyReference.cache
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.Form1.resources
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+C:\Users\Intel\Desktop\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.Cache
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\ServerName.xml
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Resources\17857636_1383755405038653_2136542666_n (1).png
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Resources\second.png
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Resources\Nikola Tasic.jpg
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Resources\Autori\Darko Ristic.jpg
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Resources\Autori\Martin Stamenkovic.jpg
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Resources\Autori\Miroslav Ilic.jpg
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Resources\Autori\Nikola Tasic.jpg
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.config
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.manifest
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.application
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.Autori.resources
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.Form1.resources
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.Cache
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe.manifest
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.application
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.pdb
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\obj\Release\Biblioteka.csprojResolveAssemblyReference.cache
+E:\biblioteka\biblioteka\Projekat\Biblioteka\Biblioteka\bin\Release\Biblioteka.pdb
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.config
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.pdb
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\ServerName.xml
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Resources\17857636_1383755405038653_2136542666_n (1).png
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Resources\second.png
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Resources\Nikola Tasic.jpg
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Resources\Autori\Darko Ristic.jpg
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Resources\Autori\Martin Stamenkovic.jpg
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Resources\Autori\Miroslav Ilic.jpg
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Resources\Autori\Nikola Tasic.jpg
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe.manifest
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Biblioteka.application
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Biblioteka.exe
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\bin\Release\Biblioteka.pdb
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.csprojResolveAssemblyReference.cache
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.Autori.resources
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.Form1.resources
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.Properties.Resources.resources
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.csproj.GenerateResource.Cache
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.exe.manifest
+E:\biblioteka\bibliotekaSstringomzaumrezavanje\ProjekatZadnjaVerzija\Biblioteka\Biblioteka\obj\Release\Biblioteka.application
